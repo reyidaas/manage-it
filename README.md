@@ -9,7 +9,7 @@ The project is currently in development process.
 
 ## Authors
 
-- [@m-rejdych](https://www.github.com/m-rejdych)
+- [@reyidaas](https://www.github.com/reyidaas)
 
   
 ## Features

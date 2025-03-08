@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/m-rejdych/manage-it.git"
+    "url": "git+https://github.com/reyidaas/manage-it.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/m-rejdych/manage-it/issues"
+    "url": "https://github.com/reyidaas/manage-it/issues"
   },
-  "homepage": "https://github.com/m-rejdych/manage-it#readme",
+  "homepage": "https://github.com/reyidaas/manage-it#readme",
   "dependencies": {
     "concurrently": "^6.2.0"
   }
